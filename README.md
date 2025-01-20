@@ -11,31 +11,31 @@
   <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **14th February at [Mishtten Resort](https://g.page/Mishttenresort),  Jhalawar, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Ranjith's wedding to be held on **08th February at [Bride's Residence, Edavelly](https://maps.app.goo.gl/xKqzE1aLctpxNxu1A),  Rebbena, Telangana from 11:20 AM** onwards.
 
 - [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card
 
-- Find [venue](https://g.page/Mishttenresort) on Google map
+- Find [venue](https://maps.app.goo.gl/xKqzE1aLctpxNxu1A) on Google map
 
-- Visit the [website](https://saharshisha.netlify.app) for more details
+- Visit the [website](https://ilaveniranjith.github.io/wedding-invitation/ for more details
 
 
 ```js
 
-const newCouple = 'Saharsh & Isha';
+const newCouple = 'Ranjith Yadav & Supriya';
 
-// Feb 14, 2021
-const weddingDate = new Date(2021, 02, 14);
+// Feb 8, 2025
+const weddingDate = new Date(2025, 02, 8);
 
-// Wedding venue: https://g.page/Mishttenresort
-const weddingVenue = new Location('Mishtten Resort, Rajasthan');
+// Wedding venue: (https://maps.app.goo.gl/xKqzE1aLctpxNxu1A)
+const weddingVenue = new Location('At Bride's Residence, Edavelli, Telangana');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://saharshisha.netlify.app/')
+        window.open('https://ilaveniranjith.github.io/wedding-invitation/')
     );
 })();
 
@@ -47,7 +47,7 @@ const weddingVenue = new Location('Mishtten Resort, Rajasthan');
 ### Do not forget to leave a star! :hugs:
 
 <br><sup><i>With warm regards,<br>
-**Sarthak Jain**<i></sup><br>
+**Ilaveni Ranjith**<i></sup><br>
 
 ## Credits for the Project 
 
