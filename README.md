@@ -17,7 +17,7 @@ With the divine grace of the almighty, inviting you and your family to Ranjith's
 
 - Find [venue](https://maps.app.goo.gl/xKqzE1aLctpxNxu1A) on Google map
 
-- Visit the [website](https://ilaveniranjith.github.io/wedding-invitation/ for more details
+- Visit the [website](https://ilaveniranjith.github.io/wedding-invitation/) for more details
 
 
 ```js
