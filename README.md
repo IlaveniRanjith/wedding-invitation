@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 8th Feb, 2025 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
+<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 8th Feb, 2025 <br> <a href="https://ilaveniranjith.github.io/wedding-invitation/">Website</a></h1>
 
 
 
@@ -8,12 +8,12 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/invitation-rs.png" /></a>
 </details>
 
 With the divine grace of the almighty, inviting you and your family to Ranjith's wedding to be held on **08th February at [Bride's Residence, Edavelly](https://maps.app.goo.gl/xKqzE1aLctpxNxu1A),  Rebbena, Telangana from 11:20 AM** onwards.
 
-- [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card
+<!-- - [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card -->
 
 - Find [venue](https://maps.app.goo.gl/xKqzE1aLctpxNxu1A) on Google map
 
