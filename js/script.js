@@ -1,5 +1,5 @@
 /**
- * @author Sarthak Jain <sarthak240498@gmail.com>
+ * @author Ilaveni Ranjith <ranjith.ilaveni@gmail.com>
  */
 (function ($) {
     "use strict";
@@ -18,14 +18,31 @@
 
 })(jQuery);
 
-$(document).on('click', function(){
-    document.getElementById("my_audio").play();
-    console.log('Shaadi me zaroor aana');
+// $(document).on('click', function(){
+//     document.getElementById("my_audio").play();
+//     console.log('పెళ్లికి రండి');
+// });
+
+$(document).on('click', function () {
+    const audio = document.getElementById("my_audio");
+
+    if (audio.paused) {
+        audio.play(); // Play the audio if it's paused
+        console.log("పెళ్లికి రండి");
+    } else {
+        audio.pause(); // Pause the audio if it's playing
+        console.log("పెళ్లిలో చాలా సరదాగా ఉంటుంది");
+    }
 });
+
+// $(document).on('click', function(){
+//     document.getElementById("my_audio").pause();
+    
+// });
 
 function pauseAudio() { 
     document.getElementById("my_audio").pause();
-    console.log('Shaadi me pakka aana');
+    console.log('పెళ్ళికి తప్పకుండ రావాలి');
     event.stopPropagation();
 };
 
@@ -97,6 +114,6 @@ console.log('\n\n%c SAVE THE DATE: 8th Feb, 2025', styles);
 console.log('%cYour presence is requested!%c\n\nRegards: Ilaveni Ranjith', styles1, styles2);
 
 console.log(
-    `%c शादी में जलूल जलूल आना होगा \n\n`,
+    `%c పెళ్లిలో చాలా సరదాగా ఉంటుంది \n\n`,
     'color: yellow; background:tomato; font-size: 24pt; font-weight: bold',
 )
